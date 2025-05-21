@@ -2,9 +2,9 @@
 
 A Course Project for SUTD 50.039 Theory and Practice of Deep Learning (2022 Spring)
 
-Created by [Mark He Huang](https://markhh.com/), [Peiyuan Zhang](https://www.linkedin.com/in/lance-peiyuan-zhang-5b2886194/), [James Raphael Tiovalen](https://jamestiotio.github.io/), [Madhumitha Balaji](https://www.linkedin.com/in/madhu-balaji/), and [Shyam Sridhar](https://www.linkedin.com/in/shyam-sridhar/).
+Created by Mohd Rizwan and Niresh Kumar
 
-Check out our: [Project Report](Report.pdf) | [Interactive Website](https://markhh.com/AudioDeepFakeDetection/)
+Check out our: [Project Report](final_report.docs) | [Interactive Website](https://deluxe-nougat-e21b63.netlify.app/)
 
 ## Setup Environment
 
@@ -122,13 +122,6 @@ Run the following command to re-compute the evaluation results based on saved pr
 ```bash
 python metrics.py
 ```
-
-## Acknowledgements
-
--   We thank [Dr. Matthieu De Mari](https://istd.sutd.edu.sg/people/faculty/matthieu-de-mari) and [Prof. Berrak Sisman](https://istd.sutd.edu.sg/people/faculty/berrak-sisman) for their teaching and guidance.
--   We thank Joel Frank and Lea Schönherr. Our code is partially adopted from their repository [WaveFake](https://github.com/RUB-SysSec/WaveFake).
--   We thank [Prof. Liu Jun](https://istd.sutd.edu.sg/people/faculty/liu-jun) for providing GPU resources for conducting experiments for this project.
-
 ## License
 
 Our project is licensed under the [MIT License](LICENSE).
