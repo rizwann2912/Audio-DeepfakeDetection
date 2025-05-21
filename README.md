@@ -1,7 +1,5 @@
 # Audio Deep Fake Detection
 
-A Course Project for SUTD 50.039 Theory and Practice of Deep Learning (2022 Spring)
-
 Created by Mohd Rizwan and Niresh Kumar
 
 Check out our: [Project Report](final_report.docs) | [Interactive Website](https://deluxe-nougat-e21b63.netlify.app/)
