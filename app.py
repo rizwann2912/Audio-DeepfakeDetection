@@ -14,7 +14,7 @@ sys.path.append('.')
 
 # Import modules from the project
 from models.cnn import ShallowCNN
-from preprocess.feature import LFCC
+from preprocess.lfcc import LFCC
 
 app = Flask(__name__, static_folder='.', static_url_path='')
 CORS(app)  # Enable CORS for all routes

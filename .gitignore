@@ -3,6 +3,7 @@ saved1/
 .vscode
 .DS_Store
 data/*
+.log
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
